@@ -1,2 +1,2 @@
 alpine
-centos:centos7.9.2009
+mysql:oraclelinux9
