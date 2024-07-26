@@ -1,3 +1,5 @@
 alpine
 mysql:oraclelinux9
 centos:latest
+nginx:stable-perl
+tomcat:latest
