@@ -1,2 +1,3 @@
 alpine
 mysql:oraclelinux9
+centos:latest
